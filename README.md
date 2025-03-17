@@ -1,5 +1,6 @@
 ## Overview
 This is an oversimplified chat app that was built using Node.js, Express, and Socket.io. I used sources like video tutorials, Reddit, chat apps created by others on GitHub, and GitHub Copilot to create this program.
+Used VSCode for development.
 
 ## Features
 - Scrollable chat
